@@ -6,3 +6,5 @@ I decided to make this as TaskbarX doesn't actually have an official installer. 
 You can download the latest version [here](https://github.com/oliverstech/TaskbarX-Installer/releases/latest).
 
 Enjoy!
+
+TaskbarX on GitHub - https://github.com/ChrisAnd1998/TaskbarX/
